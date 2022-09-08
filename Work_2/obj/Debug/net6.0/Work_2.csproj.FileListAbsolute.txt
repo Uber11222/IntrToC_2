@@ -1,0 +1,15 @@
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\bin\Debug\net6.0\Work_2.exe
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\bin\Debug\net6.0\Work_2.deps.json
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\bin\Debug\net6.0\Work_2.runtimeconfig.json
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\bin\Debug\net6.0\Work_2.dll
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\bin\Debug\net6.0\Work_2.pdb
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\obj\Debug\net6.0\Work_2.csproj.AssemblyReference.cache
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\obj\Debug\net6.0\Work_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\obj\Debug\net6.0\Work_2.AssemblyInfoInputs.cache
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\obj\Debug\net6.0\Work_2.AssemblyInfo.cs
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\obj\Debug\net6.0\Work_2.csproj.CoreCompileInputs.cache
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\obj\Debug\net6.0\Work_2.dll
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\obj\Debug\net6.0\refint\Work_2.dll
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\obj\Debug\net6.0\Work_2.pdb
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\obj\Debug\net6.0\Work_2.genruntimeconfig.cache
+F:\GeekStud\Introduction-to-C-\HW_lession_2\Work_2\obj\Debug\net6.0\ref\Work_2.dll
