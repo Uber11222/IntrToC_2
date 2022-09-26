@@ -1,0 +1,14 @@
+﻿Console.WriteLine("Введите первый элемент координаты точки А");
+int a1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите второй элемент координаты точки А");
+int a2 = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите третий элемент координаты точки А");
+int a3 = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите первый элемент координаты точки Б");
+int b1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите второй элемент координаты точки Б");
+int b2 = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите третий элемент координаты точки Б");
+int b3 = int.Parse(Console.ReadLine());
+double distance = Math.Sqrt (Math.Pow((b1-a1), 2) + Math.Pow((b2-a2), 2) + Math.Pow((b3-a3), 2));
+Console.WriteLine($"Расстояние между точками А и Б {distance}");

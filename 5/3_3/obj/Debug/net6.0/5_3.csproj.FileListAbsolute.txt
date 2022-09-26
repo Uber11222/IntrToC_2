@@ -1,0 +1,15 @@
+F:\GeekStud\Test1\5\5_2\5_3\bin\Debug\net6.0\5_3.exe
+F:\GeekStud\Test1\5\5_2\5_3\bin\Debug\net6.0\5_3.deps.json
+F:\GeekStud\Test1\5\5_2\5_3\bin\Debug\net6.0\5_3.runtimeconfig.json
+F:\GeekStud\Test1\5\5_2\5_3\bin\Debug\net6.0\5_3.dll
+F:\GeekStud\Test1\5\5_2\5_3\bin\Debug\net6.0\5_3.pdb
+F:\GeekStud\Test1\5\5_2\5_3\obj\Debug\net6.0\5_3.csproj.AssemblyReference.cache
+F:\GeekStud\Test1\5\5_2\5_3\obj\Debug\net6.0\5_3.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekStud\Test1\5\5_2\5_3\obj\Debug\net6.0\5_3.AssemblyInfoInputs.cache
+F:\GeekStud\Test1\5\5_2\5_3\obj\Debug\net6.0\5_3.AssemblyInfo.cs
+F:\GeekStud\Test1\5\5_2\5_3\obj\Debug\net6.0\5_3.csproj.CoreCompileInputs.cache
+F:\GeekStud\Test1\5\5_2\5_3\obj\Debug\net6.0\5_3.dll
+F:\GeekStud\Test1\5\5_2\5_3\obj\Debug\net6.0\refint\5_3.dll
+F:\GeekStud\Test1\5\5_2\5_3\obj\Debug\net6.0\5_3.pdb
+F:\GeekStud\Test1\5\5_2\5_3\obj\Debug\net6.0\5_3.genruntimeconfig.cache
+F:\GeekStud\Test1\5\5_2\5_3\obj\Debug\net6.0\ref\5_3.dll
